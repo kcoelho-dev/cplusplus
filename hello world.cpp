@@ -5,4 +5,5 @@ using std::endl;
 int main ()
 {
 	cout << "Hello World!" << endl;
+	cout << "Again, World Hello!!" << endl;
 }
